@@ -8,7 +8,7 @@
 
 UML: Composite Structure Diagram
 
-![Monalisp Use Case](Monalisp-Use-Casejpeg)
+![Monalisp Use Case](Monalisp-Use-Case.jpeg)
 
 # System Components
 
