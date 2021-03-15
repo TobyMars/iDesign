@@ -4,11 +4,11 @@
 ## Monalisp Class
 
 
-![Monalisp Class](Monalisp-Class.jpeg)
+![Monalisp Class](MonalispClass.jpeg)
 
-UML: Composite Structure Diagram
+![Monalisp Composite Structure](MonalispCompositeStructure.jpeg)
 
-![Monalisp Use Case](Monalisp-Use-Case.jpeg)
+![Monalisp Use Case](MonalispUseCase.jpeg)
 
 # System Components
 
