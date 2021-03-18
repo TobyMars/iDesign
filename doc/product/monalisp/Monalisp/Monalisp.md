@@ -1,11 +1,11 @@
 
-# Monalisp Overview
+# Overview
 
 ## Monalisp Class
 ![Monalisp Class](MonalispClass.jpeg)
 
 ## Monalisp Composite Structure 
-![Monalisp Composite Structure](MonalispCompositeStructure.jpeg)
+![Monalisp Composite Structure](MonalispCompositeStruture-InternalStructure.jpeg)
 
 ### Collaboration Use
 TODO
@@ -16,9 +16,12 @@ TODO
 
 # Behavior
 
-UML: Interaction Overview
+## Monalisp Baby Activies
 
-UML: Activities
+![Monalisp Baby Activies](MonalispBabyActivity.jpeg)
+
+
+UML: Interaction Overview
 
 UML: State Machines
 
