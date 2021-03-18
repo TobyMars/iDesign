@@ -5,7 +5,7 @@
 ![Monalisp Class](MonalispClass.jpeg)
 
 ## Monalisp Composite Structure 
-![Monalisp Composite Structure](MonalispCompositeStruture-InternalStructure.jpeg)
+![Monalisp Composite Structure](MonalispCompositeStruture.jpeg)
 
 ### Collaboration Use
 TODO
