@@ -1,27 +1,31 @@
 
 # Overview
 
-## Monalisp Class
+## Class Diagram
 ![Monalisp Class](MonalispClass.jpeg)
 
-## Monalisp Composite Structure 
+## Composite Structure Diagram
 ![Monalisp Composite Structure](MonalispCompositeStruture.jpeg)
 
-### Collaboration Use
+### Collaboration Use Diagram
 TODO
-
-## Monalisp Use Case
-![Monalisp Use Case](MonalispUseCase.jpeg)
-
 
 # Behavior
 
-## Monalisp Baby Activies
+## Use Case Diagram
+![Monalisp Use Case](MonalispUseCase.jpeg)
 
-![Monalisp Baby Activies](MonalispBabyActivity.jpeg)
+## Monalisp Interaction Overview
+TODO
 
+## Baby Activity Diagram
+![Monalisp Baby Activity](MonalispBabyActivity.jpeg)
 
-UML: Interaction Overview
+## Sequence Diagram
+
+### API CALL Sequence Diagram
+![API CALL Sequence Diagram](API_CALL_Sequence_Diagram_V1_0.jpeg)
+
 
 UML: State Machines
 
