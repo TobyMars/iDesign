@@ -26,6 +26,11 @@ TODO
 ### API CALL Sequence Diagram
 ![API CALL Sequence Diagram](API_CALL_Sequence_Diagram_V1_0.jpeg)
 
+## Timing Diagram
+
+### Online Coding Timing Diagram
+![Online Coding Timing Diagram](Online_Coding_Timing_Diagram_V1.0.jpeg)
+
 
 UML: State Machines
 
