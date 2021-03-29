@@ -7,8 +7,12 @@
 ## Composite Structure Diagram
 ![Monalisp Composite Structure](MonalispCompositeStruture.jpeg)
 
-### Collaboration Use Diagram
-TODO
+UML: Composite Diagram
+
+UML: Packages Diagram
+
+UML: Deployments Diagram
+
 
 # Behavior
 
@@ -31,9 +35,18 @@ TODO
 ### Online Coding Timing Diagram
 ![Online Coding Timing Diagram](Online_Coding_Timing_Diagram_V1.0.jpeg)
 
+## State Machine Diagram
 
-UML: State Machines
+### Debugger State Machine Diagram
+![Debugger State Machine Diagram](Debugger_State_Machine_Diagram_V1.jpeg)
 
-...
+UML: Communication Diagram
+
+UML: Information flows Diagram
+
+UML: Interaction Overview Diagram
+
+UML: Collaboration Use Diagram
+
 
 
