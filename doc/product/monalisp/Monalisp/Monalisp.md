@@ -7,7 +7,10 @@
 ## Composite Structure Diagram
 ![Monalisp Composite Structure](MonalispCompositeStruture.jpeg)
 
-UML: Composite Diagram
+## Composite X Diagram
+![Composite_X_Diagram_V1](Composite_X_Diagram_V1.jpeg)
+
+TODO: More composite diagrams
 
 UML: Packages Diagram
 
