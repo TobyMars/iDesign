@@ -12,7 +12,8 @@
 
 TODO: More composite diagrams
 
-UML: Packages Diagram
+## Package Diagram
+![Package_Diagram_V1](Package_Diagram_V1.jpeg)
 
 UML: Deployments Diagram
 
