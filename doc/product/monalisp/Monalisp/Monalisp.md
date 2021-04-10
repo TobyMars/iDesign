@@ -15,6 +15,12 @@ TODO: More composite diagrams
 ## Package Diagram
 ![Package_Diagram_V1](Package_Diagram_V1.jpeg)
 
+### Model Diagram
+
+**Layered Monalisp Application**
+
+![Layered Monalisp Application](Model_Diagram_V1.jpeg)
+
 UML: Deployments Diagram
 
 
