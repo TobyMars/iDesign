@@ -21,8 +21,9 @@ TODO: More composite diagrams
 
 ![Layered Monalisp Application](Model_Diagram_V1.jpeg)
 
-UML: Deployments Diagram
+## Deployments Diagram
 
+![Deployment_Diagram_V1](Deployment_Diagram_V1.jpeg)
 
 # Behavior
 
