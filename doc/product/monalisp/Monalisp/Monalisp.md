@@ -7,12 +7,23 @@
 ## Composite Structure Diagram
 ![Monalisp Composite Structure](MonalispCompositeStruture.jpeg)
 
-UML: Composite Diagram
+## Composite X Diagram
+![Composite_X_Diagram_V1](Composite_X_Diagram_V1.jpeg)
 
-UML: Packages Diagram
+TODO: More composite diagrams
 
-UML: Deployments Diagram
+## Package Diagram
+![Package_Diagram_V1](Package_Diagram_V1.jpeg)
 
+### Model Diagram
+
+**Layered Monalisp Application**
+
+![Layered Monalisp Application](Model_Diagram_V1.jpeg)
+
+## Deployments Diagram
+
+![Deployment_Diagram_V1](Deployment_Diagram_V1.jpeg)
 
 # Behavior
 
@@ -40,7 +51,10 @@ TODO
 ### Debugger State Machine Diagram
 ![Debugger State Machine Diagram](Debugger_State_Machine_Diagram_V1.jpeg)
 
-UML: Communication Diagram
+## Communication Diagram
+
+### Programming Communication Diagram
+![Communication_Diagram_V1](Communication_Diagram_V1.jpeg)
 
 UML: Information flows Diagram
 
