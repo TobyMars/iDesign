@@ -51,7 +51,10 @@ TODO
 ### Debugger State Machine Diagram
 ![Debugger State Machine Diagram](Debugger_State_Machine_Diagram_V1.jpeg)
 
-UML: Communication Diagram
+## Communication Diagram
+
+### Programming Communication Diagram
+![Communication_Diagram_V1](Communication_Diagram_V1.jpeg)
 
 UML: Information flows Diagram
 
